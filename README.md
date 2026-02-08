@@ -69,6 +69,6 @@ Start with the Principal Frame of Orientation.
 
 ## Status
 
-This integrity of this repository is dependent upon restraint. rather than execution.
+This integrity of this repository is dependent upon restraint rather than execution.
 
 Nothing should be added here unless it is authored at the level of orientation and responsibility.
