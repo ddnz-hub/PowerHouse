@@ -33,3 +33,6 @@ Temporary Items
 # Temporary files
 *.tmp
 *.log
+
+# Local upload scratch / temp
+.tmp.driveupload/
