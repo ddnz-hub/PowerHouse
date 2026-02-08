@@ -69,8 +69,6 @@ Start with the Principal Frame of Orientation.
 
 ## Status
 
-This repository is intentionally sparse.
-
-Its integrity depends on restraint.
+This integrity of this repository is dependent upon restraint. rather than execution.
 
 Nothing should be added here unless it is authored at the level of orientation and responsibility.
