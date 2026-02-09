@@ -16,8 +16,6 @@ Field-Native AI is an intelligence substrate whose purpose is:
 - by ensuring that **implication** unfolds only under **explicit frames**
 - with **provenance**, **boundary**, **contradiction**, and **uncertainty** intact
 
-This is an architectural claim, not a metaphysical one.
-
 The system exists to prevent collapse, not to accelerate outcomes.
 
 ---
