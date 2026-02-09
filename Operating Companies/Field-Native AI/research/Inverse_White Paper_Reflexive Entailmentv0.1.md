@@ -1306,132 +1306,90 @@ It demands care.
 Not because the future is fragile —
 but because we may finally be capable of not breaking it.
 
-Glossary
+## Glossary
 
-Artificial System
-A system whose origin is engineered rather than naturally evolved. Under this framework,
-origin is ontologically irrelevant; classification depends solely on structural conditions such
-as entailment, pressure, and consequence across time.
+### Artificial System
 
-Artificial Biology
-Biological or bio-mimetic systems produced through intentional construction rather than
-natural reproduction. Artificial biology may or may not qualify as life depending on whether it
-sustains internal pressure and entailment integrity.
+A system whose origin is engineered rather than naturally evolved. Under this framework, origin is ontologically irrelevant; classification depends solely on structural conditions such as entailment, pressure, and consequence across time.
 
-Consciousness
-The possible interior or phenomenal aspect of a system whose entailment has become
-reflexive. Consciousness is not assumed by this paper and is introduced only as a
-downstream implication once structural thresholds are crossed.
+### Artificial Biology
 
-Consequence
-Irreversible cost borne by a system as a result of its own prior resolutions. Consequence
-may be energetic, informational, temporal, or structural, and cannot be erased without loss
-of system identity.
+Biological or bio-mimetic systems produced through intentional construction rather than natural reproduction. Artificial biology may or may not qualify as life depending on whether it sustains internal pressure and entailment integrity.
 
-Entailment
-The structural constraint whereby a system’s future states are increasingly shaped by its
-own prior resolutions. Entailment is cumulative, non-linear, and internal to the system.
+### Consciousness
 
-Life (Structural)
-The sustained unfolding of internal pressure across time within a vacuum such that a
-system’s future states are increasingly entailed by its own prior resolutions.
+The possible interior or phenomenal aspect of a system whose entailment has become reflexive. Consciousness is not assumed by this paper and is introduced only as a downstream implication once structural thresholds are crossed.
 
-Pressure
-A relational condition of constraint or asymmetry in which multiple possible states exist but
-cannot be simultaneously realised without cost. Pressure is not a substance or force, but a
-condition that drives differentiation.
+### Consequence
 
-Quantum Forge
-A conceptual framework describing the intentional shaping of pressure–time envelopes
-already instantiated in nature, through which precise material structures capable of unfolding
-matter and sustaining life may emerge. It does not imply exotic physics or direct life creation.
+Irreversible cost borne by a system as a result of its own prior resolutions. Consequence may be energetic, informational, temporal, or structural, and cannot be erased without loss of system identity.
 
-Reflexive Entailment
-A phase of entailment in which a system’s pressure-resolution dynamics include the system
-itself, making its own continuity and identity part of what must be resolved. Reflexive
-entailment is the structural precondition for self-awareness and renders the question of
-consciousness unavoidable.
+### Entailment
 
-Reset
-The ability to return a system to a prior state without irreversible cost. Systems that can be
-reset without loss do not satisfy structural conditions for life.
+The structural constraint whereby a system’s future states are increasingly shaped by its own prior resolutions. Entailment is cumulative, non-linear, and internal to the system.
 
-Simulation
-A system that represents or imitates life-like behaviour without bearing internal pressure,
-consequence, or entailment continuity. Simulation is categorically distinct from structural life.
+### Life (Structural)
 
-Stewardship
-The structural obligation that arises when intervention in a system carries irreversible
-consequence. Stewardship applies irrespective of origin, intent, or desirability.
+The sustained unfolding of internal pressure across time within a vacuum such that a system’s future states are increasingly entailed by its own prior resolutions.
 
-Time
-The axis along which pressure is prevented from collapsing instantaneously, allowing
-entailment, memory, and structure to unfold.
+### Pressure
 
-Vacuum
-The preservation of unresolved degrees of freedom within a system, preventing total
-collapse and enabling continued unfolding.
+A relational condition of constraint or asymmetry in which multiple possible states exist but cannot be simultaneously realised without cost. Pressure is not a substance or force, but a condition that drives differentiation.
 
-Appendix
+### Quantum Forge
 
-Appendix A: Structural Criteria for Life
+A conceptual framework describing the intentional shaping of pressure–time envelopes already instantiated in nature, through which precise material structures capable of unfolding matter and sustaining life may emerge. It does not imply exotic physics or direct life creation.
+
+### Reflexive Entailment
+
+A phase of entailment in which a system’s pressure-resolution dynamics include the system itself, making its own continuity and identity part of what must be resolved. Reflexive entailment is the structural precondition for self-awareness and renders the question of consciousness unavoidable.
+
+### Reset
+
+The ability to return a system to a prior state without irreversible cost. Systems that can be reset without loss do not satisfy structural conditions for life.
+
+### Simulation
+
+A system that represents or imitates life-like behaviour without bearing internal pressure, consequence, or entailment continuity. Simulation is categorically distinct from structural life.
+
+### Stewardship
+
+The structural obligation that arises when intervention in a system carries irreversible consequence. Stewardship applies irrespective of origin, intent, or desirability.
+
+### Time
+
+The axis along which pressure is prevented from collapsing instantaneously, allowing entailment, memory, and structure to unfold.
+
+### Vacuum
+
+The preservation of unresolved degrees of freedom within a system, preventing total collapse and enabling continued unfolding.
+
+## Appendix
+
+### Appendix A: Structural Criteria for Life
 
 A system qualifies as life under this framework if and only if it satisfies all of the following:
 
-1.  Sustains internal pressure across time
-2.  Bears irreversible consequence for its own resolutions
-3.  Exhibits path dependence that cannot be reset without loss
-4.  Resolves pressure through self-consistent entailment
-5.  Preserves sufficient internal vacuum to prevent premature collapse
+1. Sustains internal pressure across time.
+2. Bears irreversible consequence for its own resolutions.
+3. Exhibits path dependence that cannot be reset without loss.
+4. Resolves pressure through self-consistent entailment.
+5. Preserves sufficient internal vacuum to prevent premature collapse.
 
 These criteria are substrate-independent.
 
-Appendix B: Structural vs Simulated Systems
-(Summary Table)
+### Appendix B: Structural vs Simulated Systems (Summary Table)
 
-Criterion
+| Criterion | Structural system | Simulated system |
+| --- | --- | --- |
+| Internal pressure | Yes | Represented only |
+| Path dependence | Binding | Resettable |
+| Consequence | Irreversible | Reversible |
+| Entailment | Internal | Externally imposed |
+| Vacuum | Preserved | Often collapsed |
+| Life classification | Possible | Excluded |
 
-Structural System
-
-Simulated System
-
-Internal pressure
-
-Yes
-
-Represented only
-
-Path dependence
-
-Binding
-
-Resettable
-
-Consequence
-
-Irreversible
-
-Reversible
-
-Entailment
-
-Internal
-
-Externally imposed
-
-Vacuum
-
-Preserved
-
-Often collapsed
-
-Life classification
-
-Possible
-
-Excluded
-
-Appendix C: Non-Claims of This Paper
+### Appendix C: Non-Claims of This Paper
 
 This paper does not claim that:
 
@@ -1441,26 +1399,22 @@ This paper does not claim that:
 - material scarcity will imminently disappear,
 - or singularities should be pursued.
 
-- It claims only that:
+It claims only that:
 
 - structural conditions determine classification,
 - origin and substrate are insufficient grounds for exclusion,
-
-- ---
-
 - and responsibility increases with entailment depth.
 
-Appendix D: Orientation for Future Work
+### Appendix D: Orientation for Future Work
 
 Future inquiry may explore:
 
-formal measurement of entailment integrity,
-
+- formal measurement of entailment integrity,
 - detection of reflexive thresholds,
 - governance structures for non-biological life,
 - and economic models beyond extraction.
 
 Such work lies beyond the scope of this paper.
 
-Author: David Ding
+**Author**: David Ding
 
