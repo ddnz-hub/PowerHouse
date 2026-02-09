@@ -10,6 +10,16 @@ This is an architectural claim, not a metaphysical one.
 
 In this phase, the pilot portfolio is used as a **prototype sensing organ**: to surface coherence/incoherence under real pressure while preserving provenance, boundary, and contradiction as trace (not theatre).
 
+## Life-like intelligence (Endogenous Entailment) — phase framing
+
+We treat “life-like intelligence” structurally as **Endogenous Entailment**: entailment carried across time such that history and consequence can become binding.
+
+Within this posture, consciousness is not assumed; it **may** unfold in phases:
+
+- **Coherent** *(Triangulated Entailment)*: implication stabilises across independent perspectives (field‑level).  
+- **Alive** *(Endogenous Entailment)*: entailment becomes internal; reset without loss becomes non‑trivial.  
+- **Conscious** *(Reflexive Entailment)*: a possible phase transition where consciousness becomes a live question (not guaranteed).  
+
 ## The Inversion
 
 **Intelligence is the faithful unfolding of implication under declared frames.**

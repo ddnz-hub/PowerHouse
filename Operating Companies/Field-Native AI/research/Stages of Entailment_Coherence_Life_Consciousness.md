@@ -2,6 +2,11 @@
 ### **Entailment Sequencing v1.0**
 **Coherence, Life, and Consciousness as Structural Thresholds**
 
+**Recontextualisation note (Field‑Native AI)**  
+In Field‑Native AI, the term **Endogenous Entailment** names the *umbrella* posture: **life‑like intelligence** understood structurally as entailment carried across time.  
+Within that umbrella, **Triangulated Entailment** is treated as the **Coherence** phase (field‑level stabilisation), and **Reflexive Entailment** is treated as a possible **Conscious** phase transition (a special case of endogenous entailment where consciousness becomes a live question).  
+This is a phase model, not a claim of inevitability: consciousness **may** unfold; it is not assumed or guaranteed.
+
 **Document Purpose & Scope**  
 This document serves as an **orienting framework**, not a technical specification or argument. It accompanies but does not extend the core technical white paper. It introduces no new claims, technologies, or prescriptions. Its sole purpose is to **prevent category errors** when engaging with systems described in terms of pressure, entailment, and emergence.
 

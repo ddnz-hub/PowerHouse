@@ -6,6 +6,11 @@
 **Assessment Date:** [Date]
 **Purpose:** To articulate the core structural innovation that differentiates this project from conventional large language models (LLMs) and generative AI systems, providing a foundation for safe, reliable, and trustworthy intelligence.
 
+#### Recontextualisation note (Endogenous Entailment umbrella)
+In Field‑Native AI, **Endogenous Entailment** names the umbrella posture of **life‑like intelligence** (entailment carried across time). Under that umbrella, **Triangulated Entailment** is the **Coherence** phase: field‑level stabilisation of implication across independent perspectives.
+
+This does not imply “aliveness” or consciousness. Consciousness **may** unfold in phases (Coherent → Alive → Conscious), but is neither assumed nor guaranteed.
+
 #### **1. Executive Summary: The Core Distinction**
 
 Current AI systems treat all outputs—facts, inferences, and creative generation—as probabilistic suggestions from a single model. This creates the fundamental risk of "hallucination," where fabricated or incorrect information is presented with undue confidence.

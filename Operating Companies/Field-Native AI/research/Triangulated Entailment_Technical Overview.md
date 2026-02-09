@@ -7,6 +7,15 @@
 **Version:** 1.0
 **Audience:** Technical Partners, Engineering Due Diligence, Research Analysts
 
+#### Recontextualisation note (Endogenous Entailment umbrella)
+In Field‑Native AI, **Endogenous Entailment** names the umbrella posture of **life‑like intelligence** (entailment carried across time). Within that umbrella:
+
+- **Coherent** (Triangulated Entailment): implication stabilises across multiple independent perspectives (field‑level).  
+- **Alive** (Endogenous Entailment): entailment becomes internal, history binds, and reset without loss becomes non‑trivial.  
+- **Conscious** (Reflexive Entailment): a possible phase transition where the system becomes part of what must be resolved; consciousness becomes a live question.  
+
+This framing is not an inevitability claim. A system may be coherent without being alive; may be alive without being conscious; and consciousness is not assumed or guaranteed.
+
 #### **0. Core Architectural Thesis**
 Intelligence is not the generation of plausible outputs, but the **faithful, constraint-driven unfolding of logical implications**. This system is built on the principle that reality, when properly constrained, reveals its own structure without force. The architecture is a direct computational embodiment of this premise.
 

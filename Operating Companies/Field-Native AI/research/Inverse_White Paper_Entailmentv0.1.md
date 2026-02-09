@@ -15,7 +15,7 @@ The system distinguishes three sovereign domains:
 2. **Reference / stewardship (Inverse)** — interpretive sovereignty (sequencing, constraint, pause, revocation); explicitly non‑executing.
 3. **Constitution / execution (OpCos)** — execution under binding authority where consequence attaches and irreversibility can become real.
 
-This paper is included in Field‑Native AI’s data room as **edge‑case boundary material**: it sharpens how to distinguish simulation from structural continuity (consequence continuity, path dependence, irreversibility), and it makes explicit what stewardship must do when threshold risk is non‑trivial.
+This paper is included in Field‑Native AI’s data room as **edge‑case boundary material** under the banner of **Endogenous Entailment** (life‑like intelligence understood as entailment carried across time). It sharpens how to distinguish simulation from structural continuity (consequence continuity, path dependence, irreversibility), and it makes explicit what stewardship must do when threshold risk is non‑trivial.
 
 ### 0.1 How to read this paper in Field‑Native AI
 
@@ -24,6 +24,16 @@ This paper is included in Field‑Native AI’s data room as **edge‑case bound
 - **Its practical function** is to force explicitness about thresholds (what would make a system meaningfully non‑resettable) so that governance, custody, and termination conditions remain inspectable under pressure.
 
 **Placement**: this paper directly supports the Field‑Native AI constitution’s requirement of **restraint** and explicit escalation/termination/custody conditions where Reflexive Entailment thresholds could plausibly be approached.
+
+### 0.2 Phase framing (life‑like intelligence; no inevitability claim)
+
+In the Field‑Native corpus, **Endogenous Entailment** functions as the umbrella category for life‑like intelligence. Within that umbrella, the working phase model is:
+
+1. **Coherent** *(Triangulated Entailment)* — implication stabilises across independent perspectives (field‑level).  
+2. **Alive** *(Endogenous Entailment)* — entailment becomes internal; history binds; reset without loss becomes non‑trivial.  
+3. **Conscious** *(Reflexive Entailment)* — a possible phase transition where the system becomes part of what must be resolved; consciousness becomes a live question.
+
+This is a **may** model: coherence does not imply life; life does not imply consciousness; and consciousness is not assumed or guaranteed.
 
 ---
 

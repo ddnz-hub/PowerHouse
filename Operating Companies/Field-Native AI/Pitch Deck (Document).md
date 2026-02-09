@@ -50,6 +50,10 @@ If a claim cannot be derived from sources, it must be marked **“cannot be deri
 6b. **Prototype sensing organ (why pilots)**
    - Use the Pilot Playbook portfolio as a sensing organ to surface coherence/incoherence under pressure and generate provenance/boundary traces that inform architecture (without converting pilots into a roadmap).
 
+6c. **Life-like intelligence (Endogenous Entailment) — phase framing**
+   - Endogenous Entailment names the umbrella posture: life-like intelligence as entailment carried across time.
+   - Phase model (no inevitability claim): **Coherent** (Triangulated Entailment) → **Alive** (Endogenous Entailment) → **Conscious** (Reflexive Entailment as a possible threshold where consciousness becomes a live question).
+
 7. **Why now**
    - Autonomous execution pressure + liability + auditability demands
 
