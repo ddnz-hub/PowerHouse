@@ -26,6 +26,33 @@ These documents contain the most direct, inspectable grounding for the constitut
 
 ---
 
+## 1.1 Research artefacts (recontextualised into markdown)
+
+These research papers were originally present as PDFs and have been **recontextualised into markdown** in this folder so they can be inspected, cited, and versioned without relying on PDF artefacts.
+
+Research folder (current canonical location for these rewrites):
+
+- `Operating Companies/Field-Native AI/Research/`
+  - `Operating Companies/Field-Native AI/Research/Risk Research/`  
+  - `Operating Companies/Field-Native AI/Research/Market Research/`  
+
+Direct links (non‑canonical research; included as source material):
+
+- `Operating Companies/Field-Native AI/Research/Endogenous Presence-First Intelligence_Research Summary.md`
+- `Operating Companies/Field-Native AI/Research/Failure Modes that Suppress Emergence.md`
+- `Operating Companies/Field-Native AI/Research/Negative Capability Constraint.md`
+- `Operating Companies/Field-Native AI/Research/FN_Negative Capability Constraint (NCC) Overview.md`
+- `Operating Companies/Field-Native AI/Research/FN_Negative Capability Constraint (NCC)_Minimal Systrem Spec.md`
+- `Operating Companies/Field-Native AI/Research/Field Native_System Novelty.md`
+- `Operating Companies/Field-Native AI/Research/Hayokai_Overview.md`
+- `Operating Companies/Field-Native AI/Research/Inverse Material Transposition_Working Hypothesis v1.md`
+- `Operating Companies/Field-Native AI/Research/Inverse_Sequence of Entailment_v0.1.md`
+- `Operating Companies/Field-Native AI/Research/Inverse_White Paper_Reflexive Entailmentv0.1.md`
+- `Operating Companies/Field-Native AI/Research/Risk Research/Risk & Responsibility Register_v1.1.md`
+- `Operating Companies/Field-Native AI/Research/Inverse_Structural Life_Definition_v0.1.md`
+
+---
+
 ## 2. Field-Native “public data room” artefacts (current location)
 
 Current source location (to be recontextualised into a pitch-ready canonical structure):
