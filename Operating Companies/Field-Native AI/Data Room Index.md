@@ -32,7 +32,13 @@ The research corpus has been consolidated into a single recontextualised white p
 
 Research folder (current canonical location):
 
-- `Operating Companies/Field-Native AI/research/Inverse_White Paper_Reflexive Entailmentv0.1.md`
+- `Operating Companies/Field-Native AI/research/Inverse_White Paper_Entailmentv0.1.md`
+
+Additional research notes (supporting; non-canonical):
+
+- `Operating Companies/Field-Native AI/research/Stages of Entailment_Coherence_Life_Consciousness.md`
+- `Operating Companies/Field-Native AI/research/Triangulated Entailment_Technical Overview.md`
+- `Operating Companies/Field-Native AI/research/Triangulated Entailment Novelty.MD`
 
 ---
 
