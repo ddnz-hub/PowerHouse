@@ -1,7 +1,9 @@
 # Constitution of Field‑Native AI (Canonical, Recontextualised)
 
-**Status**: v0.2 (recontextualised rewrite)  
-**Scope**: this document is the **constitutional spine** for Field‑Native AI as an operating company and as an emergent technology deployed into reality.  
+**Status**: v0.2.1 (recontextualised rewrite)  
+**Scope**: this document is the **constitution** for Field‑Native AI as an operating company and as an emergent technology deployed into reality.  
+
+It explicitly **derives its constitutional spine** (separation of powers, stewardship constraint, revocation posture, non‑execution boundaries) from `Inverse/Constitution of Inverse Limited v0.1.md`, and it explicitly **derives its orientation** (authored ground) from the Principal Frames held by PowerHouse under `Constitution of PowerHouse Global Limited_v0.1.md`.
 
 Every downstream artefact (one‑pager, pitch deck, investor memo, product interfaces, delivery interfaces, data room materials) is a **projection** of this spine and must not contradict it.
 
@@ -25,7 +27,17 @@ The system distinguishes three sovereign domains:
 
 No domain may substitute for another. No domain may collapse upward or downward without loss of integrity.
 
-### 0.2 What Field‑Native AI is in this system
+### 0.2 Derivation (how this constitution is “the combined skeleton”)
+
+This document is not authored in isolation. It is a combined skeleton across three layers:
+
+- **Orientation (PowerHouse)**: supplies the authored ground that this OpCo may reference as lineage and directional coherence, without turning orientation into instruction or approval.  
+- **Stewardship spine (Inverse)**: supplies the constitutional form of stewardship constraint (sequencing, pause, revocation; non‑execution) that prevents execution pressure from rewriting authority.  
+- **Execution constitution (Field‑Native AI)**: supplies the binding layer where action is authorised, obligations attach, and consequence is borne in reality.
+
+This constitution therefore inherits **posture and boundary** from PowerHouse and Inverse, while remaining the place where Field‑Native AI’s execution authority is made explicit and accountable.
+
+### 0.3 What Field‑Native AI is in this system
 
 Field‑Native AI is a constituted **operating company (OpCo)**.
 
