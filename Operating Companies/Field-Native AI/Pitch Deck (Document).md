@@ -47,11 +47,15 @@ If a claim cannot be derived from sources, it must be marked **“cannot be deri
 6. **Phase I wedge**
    - Governance layer for AI agents: frame declaration → entailment surface → action gating/refusal
 
+6b. **Prototype sensing organ (why pilots)**
+   - Use the Pilot Playbook portfolio as a sensing organ to surface coherence/incoherence under pressure and generate provenance/boundary traces that inform architecture (without converting pilots into a roadmap).
+
 7. **Why now**
    - Autonomous execution pressure + liability + auditability demands
 
 8. **Structural separation**
    - Custody vs execution vs capital constraints (no purchase of authority)
+   - Re‑authorisation clarity: any move from research pilots into deployment/productisation requires written re‑authorisation by **Inverse stewardship** (pathway) and the **OpCo’s constitutional authority** (execution).
 
 9. **Risk & structural mitigations**
    - Capture, incentive misalignment, latency culture, novelty: mitigated structurally (refusal, separation)

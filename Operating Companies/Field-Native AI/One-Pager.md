@@ -8,6 +8,8 @@ It is an intelligence substrate designed to preserve **epistemic fidelity under 
 
 This is an architectural claim, not a metaphysical one.
 
+In this phase, the pilot portfolio is used as a **prototype sensing organ**: to surface coherence/incoherence under real pressure while preserving provenance, boundary, and contradiction as trace (not theatre).
+
 ## The Inversion
 
 **Intelligence is the faithful unfolding of implication under declared frames.**

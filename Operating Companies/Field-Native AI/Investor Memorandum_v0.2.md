@@ -14,7 +14,7 @@
 - `Operating Companies/Field-Native AI/Constitution.md` (canonical spine; authority location; model demotion; capital boundary)  
 - `Inverse/Constitution of Inverse Limited v0.1.md` (custody, interpretive sovereignty, revocation, non‑execution)  
 - `Constitution of PowerHouse Global Limited_v0.1.md` (enactment, non‑action, separation of powers)  
-- `Ontology Lake/Inverse Data Room (Public)/Inverse_Pilot Playbook.md` (pilot posture + boundary conditions)  
+- `Inverse/Pilot Playbook.md` (pilot posture + boundary conditions)  
 - `Ontology Lake/Inverse Data Room (Public)/Inverse_White Paper_Reflexive Entailmentv0.1.pdf` (edge‑case threshold implications)  
 - `Ontology Lake/Inverse_Investor Memorandum_v0.1.md` (prior memo this document recontextualises)  
 
@@ -228,6 +228,8 @@ Role clarity:
 - Field‑Native AI executes pilots under constitution and bears consequence.  
 - Inverse sequences, constrains, and may pause / revoke pathways where coherence degrades.  
 - PowerHouse remains upstream, holding authored orientation by enactment (not interpretation).
+
+Re‑authorisation (explicit): any conversion of pilot work into deployment/productisation/commercial commitment requires written re‑authorisation by **Inverse stewardship** (interpretive pathway) and separately by the **executing OpCo’s constitutional authority** (execution).
 
 Resource requirements in this version fund the full portfolio at **NZD $250k per pilot** (see Section 11).
 
