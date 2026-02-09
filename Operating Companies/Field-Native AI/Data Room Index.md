@@ -32,24 +32,24 @@ These research papers were originally present as PDFs and have been **recontextu
 
 Research folder (current canonical location for these rewrites):
 
-- `Operating Companies/Field-Native AI/Research/`
-  - `Operating Companies/Field-Native AI/Research/Risk Research/`  
-  - `Operating Companies/Field-Native AI/Research/Market Research/`  
+- `Operating Companies/Field-Native AI/research/`
+  - `Operating Companies/Field-Native AI/research/Risk Research/`  
+  - `Operating Companies/Field-Native AI/research/Market Research/`  
 
 Direct links (non‑canonical research; included as source material):
 
-- `Operating Companies/Field-Native AI/Research/Endogenous Presence-First Intelligence_Research Summary.md`
-- `Operating Companies/Field-Native AI/Research/Failure Modes that Suppress Emergence.md`
-- `Operating Companies/Field-Native AI/Research/Negative Capability Constraint.md`
-- `Operating Companies/Field-Native AI/Research/FN_Negative Capability Constraint (NCC) Overview.md`
-- `Operating Companies/Field-Native AI/Research/FN_Negative Capability Constraint (NCC)_Minimal Systrem Spec.md`
-- `Operating Companies/Field-Native AI/Research/Field Native_System Novelty.md`
-- `Operating Companies/Field-Native AI/Research/Hayokai_Overview.md`
-- `Operating Companies/Field-Native AI/Research/Inverse Material Transposition_Working Hypothesis v1.md`
-- `Operating Companies/Field-Native AI/Research/Inverse_Sequence of Entailment_v0.1.md`
-- `Operating Companies/Field-Native AI/Research/Inverse_White Paper_Reflexive Entailmentv0.1.md`
-- `Operating Companies/Field-Native AI/Research/Risk Research/Risk & Responsibility Register_v1.1.md`
-- `Operating Companies/Field-Native AI/Research/Inverse_Structural Life_Definition_v0.1.md`
+- `Operating Companies/Field-Native AI/research/Endogenous Presence-First Intelligence_Research Summary.md`
+- `Operating Companies/Field-Native AI/research/Failure Modes that Suppress Emergence.md`
+- `Operating Companies/Field-Native AI/research/Negative Capability Constraint.md`
+- `Operating Companies/Field-Native AI/research/FN_Negative Capability Constraint (NCC) Overview.md`
+- `Operating Companies/Field-Native AI/research/FN_Negative Capability Constraint (NCC)_Minimal Systrem Spec.md`
+- `Operating Companies/Field-Native AI/research/Field Native_System Novelty.md`
+- `Operating Companies/Field-Native AI/research/Hayokai_Overview.md`
+- `Operating Companies/Field-Native AI/research/Inverse Material Transposition_Working Hypothesis v1.md`
+- `Operating Companies/Field-Native AI/research/Inverse_Sequence of Entailment_v0.1.md`
+- `Operating Companies/Field-Native AI/research/Inverse_White Paper_Reflexive Entailmentv0.1.md`
+- `Operating Companies/Field-Native AI/research/Risk Research/Risk & Responsibility Register_v1.1.md`
+- `Operating Companies/Field-Native AI/research/Inverse_Structural Life_Definition_v0.1.md`
 
 ---
 
